@@ -77,6 +77,8 @@ The final dense layer uses a softmax function to generate a probability distribu
 
 This output in the terminal shows increasing training accuracy and decreasing training loss, thus confirming that the model is learning during the 25 epochs.
 
+Click Here for better quality image: https://github.com/4manKr/Students-engagement-detection-in-Classrooms-by-deep-learning-/blob/main/Training%20Logs.png
+
 Key Observations:
 
 •	Final Training Accuracy: 0.9600
