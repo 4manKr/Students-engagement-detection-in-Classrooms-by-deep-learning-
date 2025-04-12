@@ -79,15 +79,16 @@ This output in the terminal shows increasing training accuracy and decreasing tr
 
 Key Observations:
 
-•	Final Training Accuracy: 99.92%
+•	Final Training Accuracy: 0.9600
 
-•	Final Validation Accuracy: 60.02%
+•	Final Validation Accuracy: 06004
 
-•	Final Training Loss: 0.4284
+•	Final Training Loss: 0.4234
 
 •	Final Validation Loss: 1.6816
 
 •	Model Saved As: emotion_model2.h5
+
 
 
 **Model Evaluation Output**
