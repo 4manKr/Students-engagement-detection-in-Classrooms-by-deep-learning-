@@ -97,6 +97,8 @@ Key Observations:
 
 The loaded model (emotion_model2.h5) is evaluated with a test script (evaluate_model.py) that generates the output of a confusion matrix and classification report.
 
+Click here for better quality image: https://github.com/4manKr/Students-engagement-detection-in-Classrooms-by-deep-learning-/blob/main/Evaluation%20Output%20and%20Sample%20Testing.png
+
 Confusion Matrix and Classification Report:
 
 •	Accuracy: 99.89%
